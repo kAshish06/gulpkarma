@@ -1,0 +1,16 @@
+{
+  "name": "gulpdemo",
+  "version": "1.0.0",
+  "description": "angularjs gulp demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-route": "^1.6.2",
+    "gulp": "^3.9.1"
+  }
+}
